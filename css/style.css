@@ -183,7 +183,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 
 .intro-text hr{
-	max-width: 600px;
+	max-width: 550px;
     border-top: 1px solid #fff;
 }
 
